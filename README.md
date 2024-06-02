@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- emial-sherugarganavi50@gmail.com 
-- 😄 Pronouns: she/ehr
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: i like harmony
 
 <!---
